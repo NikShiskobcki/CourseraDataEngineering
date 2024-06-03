@@ -1,1 +1,1 @@
-Jupyter Notebook for final assignment of Tools for Data Science course
+Jupyter Notebook for final assignments of IBM Data Science courses
